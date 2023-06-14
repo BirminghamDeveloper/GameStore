@@ -1,6 +1,7 @@
 # GameStore
 its Like Amazon Store for Selling Unwanted Games online and have many features included 
-Updated Firebase Chat Between Seller and Buyer 
+Updated Firebase Chat Between Seller and Buyer, 
+
 Payment Api
 and more..
 
